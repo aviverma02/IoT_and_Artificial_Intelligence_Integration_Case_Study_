@@ -110,11 +110,6 @@ AI-driven applications generate predictions, insights, dashboards, and automated
 
 ---
 
-## 📂 Project Structure
-
-
----
-
 ## 🏆 Internship Details
 
 - **Organization:** CodeAlpha  
@@ -127,9 +122,9 @@ AI-driven applications generate predictions, insights, dashboards, and automated
 
 ## 🤝 Connect With Me
 
-🔗 **LinkedIn:** *(Add your LinkedIn profile link here)*  
-💻 **GitHub:** https://github.com/your-username  
-📧 **Email:** *(Optional)*  
+🔗 **LinkedIn:-  https://github.com/aviverma02
+💻 **GitHub:-  https://www.linkedin.com/in/avinash-verma-5054a8381/  
+📧 **Email:-  avi6394760329@gmail.com
 
 ---
 
