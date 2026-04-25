@@ -8,7 +8,7 @@ A comprehensive technical case study exploring the integration of Artificial Int
 👨‍💻 **Author: Avinash Verma**
 
 ---  
-
+ 
 ## 📖 Overview
 
 This repository presents a **comprehensive technical case study** on the integration of **Artificial Intelligence (AI)** and the **Internet of Things (IoT)**, commonly referred to as **AIoT (Artificial Intelligence of Things)**.
