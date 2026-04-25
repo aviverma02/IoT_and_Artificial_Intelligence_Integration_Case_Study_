@@ -5,7 +5,7 @@ A comprehensive technical case study exploring the integration of Artificial Int
 
 📌 **Internship Project – CodeAlpha (January 2026)**  
 🎓 **B.Tech CSE (Artificial Intelligence) | KIET Group of Institutions**  
-👨‍💻 **Author: Avinash Verma**
+👨‍💻 **Author: Avinash Verma** 
 
 ---  
  
