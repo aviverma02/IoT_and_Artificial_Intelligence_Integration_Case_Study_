@@ -4,7 +4,7 @@ A comprehensive technical case study exploring the integration of Artificial Int
 ### Artificial Intelligence & Internet of Things – Technical Research Project  
 
 📌 **Internship Project – CodeAlpha (January 2026)**  
-🎓 **B.Tech CSE (Artificial Intelligence) | KIET Group of Institutions**  
+🎓 **B.Tech CSE (Artificial Intelligence) | KIET Group of Institutions**   
 👨‍💻 **Author: Avinash Verma** 
 
 ---  
