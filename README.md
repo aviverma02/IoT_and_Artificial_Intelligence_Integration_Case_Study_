@@ -118,7 +118,7 @@ AI-driven applications generate predictions, insights, dashboards, and automated
 - **Institution:** KIET Group of Institutions  
 - **Branch:** B.Tech CSE (Artificial Intelligence)  
 
----
+--- 
 
 ## 🤝 Connect With Me
 
